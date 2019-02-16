@@ -15,3 +15,4 @@
 *  COOKING...https://www.instagram.com/fireonice7/
 ## Certificates:  
 *  Business Case Development Certificate, Microsoft SQL Server 2012-70-462, System Security Ceritified Practitioner （Harvard University)  
+*  Amazon AWS Training & Certification
