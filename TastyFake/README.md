@@ -1,5 +1,5 @@
-** This is a fun food generation 'Robot' to produce kinds of cuisine for foodies,  
-BUT they don't exist.  **
+**This is a fun food generation 'Robot' to produce kinds of cuisine for foodies,  
+BUT they don't exist.**
 
 - This Produced by a GAN (generative adversarial network)
 
