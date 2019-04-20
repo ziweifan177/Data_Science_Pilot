@@ -9,11 +9,11 @@
 - class (integer): [Target] indicates whether or not a Bank Note was authentic.
 
 ### Another Point:
-- Compare the different parameters to check how the parameter affects the accuracy:
-a. Train test split
-b. Classifier: Hidden_layer
-c. Classifier: Batch_size
-d. Classifier: Train Steps
+- Compare the different parameters to check how the parameter affects the accuracy:  
+a. Train test split  
+b. Classifier: Hidden_layer  
+c. Classifier: Batch_size  
+d. Classifier: Train Steps  
 
 
 
