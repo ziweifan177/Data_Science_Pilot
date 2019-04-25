@@ -1,5 +1,4 @@
-#### 1. Graduate @ Northeastern University, Computer Engineering  
-#### (2017, will acquire my 2nd master degree on Aug.2019)  
+#### 1. Graduate @ Northeastern University, Computer Engineering  (Will acquire the 2nd master degree on Dec.2019)  
 #### 2. Research Technician @ Harvard Medical School (2018)  
 #### 3. Program manager, System Engineer, Tech Marketing Engineer @ Cisco System (2012-2017)  
 
