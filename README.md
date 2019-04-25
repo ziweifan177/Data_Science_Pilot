@@ -9,9 +9,10 @@
             Advanced Application development(Java)
             Advanced Database Management
             Business Analytics & User Experience*
-## Skills:  
+#### Skills:  
 *  Software development, Data science & Machine learning, program management,
 *  COOKING...https://www.instagram.com/fireonice7/
-## Certificates:  
-*  Business Case Development Certificate, Microsoft SQL Server 2012-70-462, System Security Ceritified Practitioner （Harvard University)  
-*  Amazon AWS Training & Certification
+#### Certificates/Awards:  
+*  Business Case Development Certificate, Microsoft SQL Server 2012-70-462, System Security Ceritified Practitioner (Harvard University)  
+*  Amazon AWS Training & Certification (Harvard University)  
+* Outstanding Co-op Award (Northeastern University)
