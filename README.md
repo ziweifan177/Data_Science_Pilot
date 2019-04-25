@@ -13,6 +13,8 @@
 *  Software development, Data science & Machine learning, program management,
 *  COOKING...https://www.instagram.com/fireonice7/
 #### Certificates/Awards:  
-*  Business Case Development Certificate, Microsoft SQL Server 2012-70-462, System Security Ceritified Practitioner (Harvard University)  
-*  Amazon AWS Training & Certification (Harvard University)  
-* Outstanding Co-op Award (Northeastern University)
+* Microsoft SQL Server 2012-70-462, System Security Ceritified Practitioner (2018, Harvard University)  
+* Business Case Development Certificate (2018, Business School, Harvard University)  
+* Amazon AWS Training & Certification (2018, Harvard University)  
+* Outstanding Co-op Award (2019, Northeastern University)
+* Gradudate Leadership Certificate (2019, Northeastern University)
