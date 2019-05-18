@@ -10,8 +10,9 @@
             Advanced Database Management
             Business Analytics & User Experience*
 #### Skills:  
-*  Software development, Data science & Machine learning, program management,
+*  Software development, Data science & Machine learning, program management.
 *  COOKING...https://www.instagram.com/fireonice7/
+*  Watch comical OWL! ![alt text](https://i0.wp.com/www.whats-your-sign.com/wp-content/uploads/2018/01/AnimalSymbolismOwl1.jpg)
 #### Certificates/Awards:  
 * Microsoft SQL Server 2012-70-462, System Security Ceritified Practitioner (2018, Harvard University)  
 * Business Case Development Certificate (2018, Business School, Harvard University)  
