@@ -1,0 +1,16 @@
+AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTG
+                 |                   | |
+AGCTTTTCATTCTGACTTCAACGGGCAATATGTCTCTTTT
+_______________________________________
+AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTG
+       |   | | |     |               |  
+AGCTTTTGATTATCAGTGCAAAGGGCAATATGTCTCTTTG
+_______________________________________
+AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTG
+       |          |     ||              
+AGCTTTTAATTCTGACTGAAACGGTAAATATGTCTCTGTG
+_______________________________________
+AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTG
+               |                        
+AGCTTTTCATTCTGAATGCAACGGGCAATATGTCTCTGTG
+_______________________________________
