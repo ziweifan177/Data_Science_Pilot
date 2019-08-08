@@ -15,9 +15,10 @@
 2017-2019:  
             Big data & intelligence analytics(Python)  
             Data science & structure(Python)  
-            Advanced Application development(Java)
-            Advanced Database Management
-            Business Analytics & User Experience*
+            Advanced Application development(Java)  
+            Advanced Database Management  
+            Business Analytics & User Experience Development
+            
 #### Skills:  
 *  Software development, Data science & Machine learning, program management, R language.
 *  COOKING...https://www.instagram.com/fireonice7/
