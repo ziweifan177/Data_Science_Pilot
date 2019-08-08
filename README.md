@@ -5,11 +5,11 @@
 *  I love data science and will keep learning some interesting stuff about Machine learning, and keep looking for the real value could be digged by data. Experienced in data science regarding to: neuron image, genome data, machine learning platform.
 
 #### Certificates/Awards:  
-* Microsoft SQL Server 2012-70-462, System Security Ceritified Practitioner (2018, Harvard University)  
+* Microsoft SQL Server 2012-70-462, System Security Ceritified Practitioner (2018)  
 * Business Case Development Certificate (2018, Business School, Harvard University)  
-* Amazon AWS Training & Certification (2018, Harvard University)  
+* Amazon AWS Training & Certification (2018)  
 * Outstanding Co-op Award (2019, Northeastern University)
-* Gradudate Leadership Certificate (2019, Northeastern University)
+* Global Gradudate Leadership Certificate (2019, Northeastern University)
 
 #### Main courses:  
 2017-2019:  
