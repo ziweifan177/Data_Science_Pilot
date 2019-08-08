@@ -13,15 +13,14 @@
 
 #### Main courses:  
 2017-2019:  
-            Big data & intelligence analytics(Python)  
-            Data science & structure(Python)  
-            Advanced Application development(Java)  
-            Advanced Database Management  
-            Business Analytics & User Experience Development
+            * Big data & intelligence analytics(Python)  
+            * Data science & structure(Python)  
+            * Advanced Application development(Java)  
+            * Advanced Database Management  
+            * Business Analytics & User Experience Development
             
 #### Skills:  
-*  Software development, Data science & Machine learning, program management, R language.
-*  COOKING...https://www.instagram.com/fireonice7/
-*  Watch comical OWL! ![alt text](https://i0.wp.com/www.whats-your-sign.com/wp-content/uploads/2018/01/AnimalSymbolismOwl1.jpg)
+*  Software development, Data science & Machine learning, program management, R, Python language.
+*  COOKING...https://www.instagram.com/fireonice7/ and... Watch comical OWL! ![alt text](https://i0.wp.com/www.whats-your-sign.com/wp-content/uploads/2018/01/AnimalSymbolismOwl1.jpg)
 
 
