@@ -1,6 +1,6 @@
 #### 1. Research Assistant @ Harvard Medical School (2018), Northeastern University (2019)
 #### 2. Program manager, System Engineer, product manager@ Cisco System (2012-2017)
-#### 3. Graduate @ Northeastern University, Computer Engineering  (Will acquire the 2nd master degree on Dec.2019)  
+#### 3. Graduate @ Northeastern University, Computer Engineering (Will acquire the 2nd master degree on Dec.2019) 
 
 *  I love data science and will keep learning some interesting stuff about Machine learning, and keep looking for the real value could be digged by data. Experienced in data science regarding to: neuron image, genome data, machine learning platform.
 
@@ -11,13 +11,12 @@
 * Outstanding Co-op Award (2019, Northeastern University)
 * Global Gradudate Leadership Certificate (2019, Northeastern University)
 
-#### Main courses:  
-2017-2019:  
-            * Big data & intelligence analytics(Python)  
-            * Data science & structure(Python)  
-            * Advanced Application development(Java)  
-            * Advanced Database Management  
-            * Business Analytics & User Experience Development
+#### Main courses 2017-2019:  
+* Big data & intelligence analytics(Python)  
+* Data science & structure(Python)  
+* Advanced Application development(Java)  
+* Advanced Database Management  
+* Business Analytics & User Experience Development
             
 #### Skills:  
 *  Software development, Data science & Machine learning, program management, R, Python language.
