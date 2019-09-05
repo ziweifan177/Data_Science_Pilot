@@ -2,7 +2,8 @@
 #### 2. Program manager, System Engineer, product manager@ Cisco System (2012-2017)
 #### 3. Graduate @ Northeastern University, Computer Engineering (Will acquire the 2nd master degree on Dec.2019) 
 
-*  I love data science and will keep learning some interesting stuff about Machine learning, and keep looking for the real value could be digged by data. Experienced in data science regarding to: neuron image, genome data, machine learning platform.
+*  I love data science and will keep learning some interesting stuff about Machine learning, and keep looking for the real value could be digged by data. 
+* Experienced in data science regarding to: neuron image, genome data, machine learning platform.
 https://scholar.harvard.edu/wingziweifan
 
 #### Certificates/Awards:  
