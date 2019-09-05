@@ -1,5 +1,5 @@
 #### 1. Research Assistant @ Harvard Medical School, Northeastern University
-#### 2. Program manager, System Engineer, product manager@ Cisco System (2012-2017)
+#### 2. Program manager, System Engineer, product manager@ Cisco Systems (2012-2017)
 #### 3. Graduate @ Northeastern University, Computer Engineering (Will acquire the 2nd master degree on Dec.2019) 
 
 *  I love data science and will keep learning some interesting stuff about Machine learning, and keep looking for the real value could be digged by data. 
