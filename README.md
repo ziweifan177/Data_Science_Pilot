@@ -23,6 +23,7 @@ https://scholar.harvard.edu/wingziweifan
             
 ### Skills:  
 *  Software development, Data science & Machine learning, program management, R, Python language.
+*  Brazilian jiujitsu
 *  COOKING...https://www.instagram.com/fireonice7/ and... Watch comical OWL! ![alt text](https://i0.wp.com/www.whats-your-sign.com/wp-content/uploads/2018/01/AnimalSymbolismOwl1.jpg)
 
 
