@@ -1,4 +1,4 @@
-#### 1. Research Assistant @ Harvard Medical School (2018), Northeastern University (2019)
+#### 1. Research Assistant @ Harvard Medical School, Northeastern University
 #### 2. Program manager, System Engineer, product manager@ Cisco System (2012-2017)
 #### 3. Graduate @ Northeastern University, Computer Engineering (Will acquire the 2nd master degree on Dec.2019) 
 
