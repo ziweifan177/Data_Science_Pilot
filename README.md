@@ -1,5 +1,5 @@
 ### BIO:
-#### 1. Research Assistant @ Harvard Medical School, Northeastern University
+#### 1. Research Assistant @ Harvard Medical School, Northeastern University, Worked with scientists @Broad Institute(MIT-Harvard cooperated institute)
 #### 2. Program manager, System Engineer, Technical Marketing Engineer@ Cisco Systems (2012-2017)
 #### 3. Graduate @ Northeastern University, Computer Engineering (Will acquire the 2nd master degree on Dec.2019) 
 
