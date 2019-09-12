@@ -4,6 +4,7 @@
 #### 3. Graduate @ Northeastern University, Computer Engineering (Will acquire the 2nd master degree on Dec.2019) 
 
 *  I love data science and will keep learning some interesting stuff about Machine learning, and keep looking for the real value could be digged by data. 
+* Long term plan: explore further how data science & machine learning could help in diverse fields and drive the business value by solving real problems around the world.
 * Experienced in data science regarding to: neuron image, genome data, machine learning platform.
 https://scholar.harvard.edu/wingziweifan
 
