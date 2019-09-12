@@ -1,5 +1,5 @@
-## This set covers  several practical projects & final project in my Big Data & Intelligence Analytics courses & Data Science Course (Jan.8th 2018-Apr.30th 2018):  
-## Professor: Nicolas Brown  
+## This set covers my practical and industrial projects, cooperated with Broad Institute, SquarkAI etc.
+## Professor: Nicolas Brown
 
 #### 1. The foundations of data processing & visualization;  
 * Project: Predict how the weather affects the traffic: Is there any direct relationship between them?  
