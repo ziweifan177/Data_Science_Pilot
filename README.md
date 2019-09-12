@@ -1,6 +1,6 @@
 ### BIO:
-#### 1. Harvard Medical School, Northeastern University: Research Assistant, Worked with scientists @Broad Institute(MIT-Harvard cooperated institute)
-#### 2. Cisco Systems: Program manager, System Engineer, Technical Marketing Engineer
+#### 1. Harvard Medical School, Northeastern University:  Research Assistant, Worked with scientists @Broad Institute (MIT-Harvard cooperated institute)
+#### 2. Cisco Systems: Program manager, System Engineer, Technical Marketing Engineer (IoT and private cloud)
 #### 3. Graduate @ Northeastern University, Computer Engineering (Will acquire the 2nd master degree on Dec.2019) 
 
 * I love data science & analytics and will keep learning some interesting stuff about Machine learning, and keep looking for the real value could be explored by data. 
