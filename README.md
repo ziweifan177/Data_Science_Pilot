@@ -9,8 +9,8 @@
 https://scholar.harvard.edu/wingziweifan
 
 ### Certificates/Awards:  
+* Business case development and program management Certified (2018, Business School, Harvard University)  
 * Microsoft SQL Server 2012-70-462, System Security Ceritified Practitioner (2018)  
-* Business Case Development Certificate (2018, Business School, Harvard University)  
 * Amazon AWS Training & Certification (2018)  
 * Outstanding Co-op Award (2019, Northeastern University)
 * Global Gradudate Leadership Certificate (2019, Northeastern University)
