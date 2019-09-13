@@ -2,7 +2,7 @@
 
 ***Lead by Prof.Nicholas Brown.***  
 
-** My Role: 
+**My Role: 
 - Work closely with Prof.Brown to conduct projects with industrial projects.
 - Convert some projects to workshop by directing students as tutor 
 - Present and showcase to public workshop off-campus, like IIT bootcamp etc.**
