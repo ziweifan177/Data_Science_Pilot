@@ -3,7 +3,9 @@ This is basic steps for processing text. The library is based on NLTK:
 1. Tokenization;
 2. Stopwords;
 3. Stemming;
-4. Speech Tagging.
+4. Speech Tagging;
+5. Chunking+Chinking;
+6. Entity Recognize
 -----------------------------------------------------------
 Questions:
 
