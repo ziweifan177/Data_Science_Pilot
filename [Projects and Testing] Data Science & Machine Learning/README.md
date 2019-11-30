@@ -1,5 +1,5 @@
 ## This set covers some practical and industrial projects, cooperated with Broad Institute, SquarkAI etc.
-## Professor: Nicolas Brown
+## Professor: Nicholas Brown
 
 #### 1. The foundations of data processing & visualization:
 #### 2. Applied visualization in field of transportation, biology(dendrogram).
